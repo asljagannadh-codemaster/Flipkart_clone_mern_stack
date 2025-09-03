@@ -55,7 +55,14 @@ const REFRESH_SECRET_KEY;
 const ACCESS_SECRET_KEY;
 
 Demo of my project as follows:
+The Home Page is as below:
 <img width="1920" height="1080" alt="flipkart___" src="https://github.com/user-attachments/assets/693ec0c3-911b-4633-bcb1-740d35ae8d93" />
+
+The interface for the Sign In will pop up as below:
+<img width="1374" height="854" alt="{EB50177E-7987-4E67-8286-AD7705DD8174}" src="https://github.com/user-attachments/assets/ddb0dd9c-056a-40f0-8312-6a7f7ceed227" />
+
+After Clicking the sign in the complete interface will be as below:
 <img width="1801" height="874" alt="flipkart___1" src="https://github.com/user-attachments/assets/f107190c-45b5-43f9-83d6-2dcde782a0f7" />
+
 
 
