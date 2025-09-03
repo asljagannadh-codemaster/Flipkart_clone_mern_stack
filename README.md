@@ -63,6 +63,8 @@ The interface for the Sign In will pop up as below:
 
 After Clicking the sign in the complete interface will be as below:
 <img width="1801" height="874" alt="flipkart___1" src="https://github.com/user-attachments/assets/f107190c-45b5-43f9-83d6-2dcde782a0f7" />
+If we can also login via mobile number: 
+![{8C3E8179-1229-490A-B06D-ADA7D10C8BC0} -pxbee-minitools-enhance-20250903195221](https://github.com/user-attachments/assets/d5ef2978-f0ac-4a49-9314-12e6e9d80822)
 
 
 
