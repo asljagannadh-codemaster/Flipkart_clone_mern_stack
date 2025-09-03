@@ -55,6 +55,3 @@ Features:
 - This project is intended for educational purposes to demonstrate proficiency in full-stack development using the MERN stack.
 - Further enhancements could include implementing user authentication, order management features, and product reviews.
 
----
-
-Feel free to customize this README further based on your specific implementation details or additional features you've incorporated into your Flipkart clone project.
