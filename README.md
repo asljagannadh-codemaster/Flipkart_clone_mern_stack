@@ -1,4 +1,4 @@
-![{9D45E0ED-6209-4FFD-BFD6-4D2A0D9BEDF0} -pxbee-minitools-enhance-20250903205806](https://github.com/user-attachments/assets/b118c820-718b-4a7d-ade6-c8ea08cf1f40)Project Overview:
+Project Overview:
 
 This project is a clone of Flipkart, a popular e-commerce platform, built using the MERN stack. It combines frontend and backend functionalities into a cohesive application.
 
